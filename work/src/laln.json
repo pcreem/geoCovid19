@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Ontario",
+    "latlong": [
+      50.000000,
+      -85.000000
+    ],
+    "demand": 93632314,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arms_of_Ontario.svg/30px-Arms_of_Ontario.svg.png"
+  },
+  {
+    "name": "Quebec",
+    "latlong": [
+      53.000000,
+      -70.000000
+    ],
+    "demand": 17512855,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Armoiries_du_Qu%C3%A9bec_%28blason%29.svg/30px-Armoiries_du_Qu%C3%A9bec_%28blason%29.svg.png"
+  },
+  {
+    "name": "Nova Scotia",
+    "latlong": [
+      45.000000,
+      -63.000000
+    ],
+    "demand": 9822827,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Arms_of_Nova_Scotia.svg/30px-Arms_of_Nova_Scotia.svg.png"
+  },
+  {
+    "name": "New Brunswick",
+    "latlong": [
+      46.498390,
+      -66.159668
+    ],
+    "demand": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arms_of_New_Brunswick.svg/30px-Arms_of_New_Brunswick.svg.png"
+  },
+  {
+    "name": "Manitoba",
+    "latlong": [
+      56.415211,
+      -98.739075
+    ],
+    "demand": 630950,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Simple_arms_of_Manitoba.svg/30px-Simple_arms_of_Manitoba.svg.png"
+  },
+  {
+    "name": "British Columbia",
+    "latlong": [
+      53.726669,
+      -127.647621
+    ],
+    "demand": 608245,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arms_of_British_Columbia.svg/28px-Arms_of_British_Columbia.svg.png"
+  },
+  {
+    "name": "Prince Edward Island",
+    "latlong": [
+      46.250000,
+      -63.000000
+    ],
+    "demand": 752249720,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Arms_of_Prince_Edward_Island.svg/30px-Arms_of_Prince_Edward_Island.svg.png"
+  },
+  {
+    "name": "Saskatchewan",
+    "latlong": [
+      55.000000,
+      -106.000000
+    ],
+    "demand": 25823201,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arms_of_Saskatchewan.svg/30px-Arms_of_Saskatchewan.svg.png"
+  },
+  {
+    "name": "Alberta",
+    "latlong": [
+      55.000000,
+      -115.000000
+    ],
+    "demand": 645873,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Shield_of_Alberta.svg/30px-Shield_of_Alberta.svg.png"
+  },
+  {
+    "name": "Newfoundland and Labrador",
+    "latlong": [
+      53.135509,
+      -57.660435
+    ],
+    "demand": 128978068,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Simple_arms_of_Newfoundland_and_Labrador.svg/30px-Simple_arms_of_Newfoundland_and_Labrador.svg.png"
+  },
+  {
+    "name": "Yukon",
+    "latlong": [
+      63.627510,
+      -135.508500
+    ],
+    "demand": 22519673,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Yukon.svg/125px-Flag_of_Yukon.svg.png"
+  },
+  {
+    "name": "Northwest Territories",
+    "latlong": [
+      67.275120,
+      -118.863600
+    ],
+    "demand": 2908506,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Northwest_Territories.svg/125px-Flag_of_the_Northwest_Territories.svg.png"
+  },
+  {
+    "name": "Nunavut",
+    "latlong": [
+      69.429610,
+      -88.641630
+    ],
+    "demand": 214965013,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Nunavut.svg/125px-Flag_of_Nunavut.svg.png"
+  }
+]
