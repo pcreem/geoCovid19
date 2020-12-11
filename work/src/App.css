@@ -1,3 +1,13 @@
+.app {
+  padding: 10vh;
+}
+
+.app__title {
+  display: flex;
+  justify-content: center;
+  font-family:  Courier, Helvetica, sans-serif;
+}
+
 .app__map {
     height: 500px;
     background-color: white;
@@ -38,4 +48,11 @@
   {
     font-size: 16px;
     margin-top: 5px;
+  }
+
+  .app__footer {
+    display: flex;
+    justify-content: center;
+    margin: 40px auto;
+    font-family:  Garamond, Courier, Helvetica, sans-serif;
   }
